@@ -12,7 +12,6 @@ gb = 3.2
 
 Vites = "Boşta"
 Durum = "Duruyor"
-Vitesler = ["Geri","Boşta","1","2","3","4","5"]
 
 temizle()
 print("Anahtar Kontağa takılsın mı? (E/H):", end=" ")
