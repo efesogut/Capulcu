@@ -312,7 +312,7 @@ while True:
             bekle(gb)
             temizle()
         else:
-            pass
+            temizle()
     elif "3" == secim:
         temizle()
         print("---------------------------------------------------")
